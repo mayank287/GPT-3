@@ -4,7 +4,7 @@
  import logo from "../../Assets/logo.svg";
 
  //Bem -> Block Element Modifier(Css Tech)
- const navbar = () => {
+ const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
 
   return (
@@ -49,5 +49,5 @@
   );
 };
 
- export default navbar;
+ export default Navbar;
  

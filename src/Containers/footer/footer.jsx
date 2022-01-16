@@ -40,7 +40,7 @@ We are blogging about it.</h1>
                </div>
            </div>
            <div className='gpt3__footer-copyright'>
-               <p></p>
+               <p>Made By Mayank Arora <a href='https://github.com/mayank287'> (Github Link)</a></p>
            </div>
         </div>
     )
